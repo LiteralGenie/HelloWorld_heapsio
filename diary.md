@@ -3,3 +3,4 @@
     - supply them in /dist?
         - sucks that /dist isnt delete-able
         - sucks for vcs
+- Linux support kinda sucks for Hashlink? Latest release with a linux binary was 2018 lol
