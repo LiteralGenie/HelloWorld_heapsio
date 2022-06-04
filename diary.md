@@ -11,7 +11,8 @@
 - Linux support kinda sucks for Hashlink? Latest release with a linux binary was 2018 lol
 
 # Takeaways
-## official-tutorial / "Introduction"
+## official-tutorial
+### [Introduction](https://heaps.io/documentation/h2d-introduction.html)
   - Scene holds everything. This is what's displayed.
   - Bitmaps hold Tiles
   - Tiles can be Images or solid colors
